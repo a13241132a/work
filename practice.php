@@ -24,6 +24,7 @@
     // 作成したget_product_matrix関数をここで呼び、戻り値を変数$product_arrayに格納しましょう。
     $product_array = get_product_matrix(6, 7, 1, 5);
 ?>
+hohohohohohohohoho
 <!DOCTYPE html>
 <html lang="en">
 <head>
