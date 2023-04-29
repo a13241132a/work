@@ -1,0 +1,7 @@
+.product_matrix {
+    border-collapse: collapse;
+}
+.product_matrix td {
+    border: solid 1px black;
+    padding: 5px;
+}
